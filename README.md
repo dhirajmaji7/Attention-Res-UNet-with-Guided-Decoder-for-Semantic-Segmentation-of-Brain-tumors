@@ -12,10 +12,10 @@ The automatic segmentation of brain tumors in Magnetic Resonance Imaging (MRI) p
 ![Guided loss](./Images/guided_loss.jpg)
 
 ### Ablation study
-![Ablation study](./Images/ablation_study.jpg)
+![Ablation study](./Images/ablation_study.png)
 
 ### Comparative study
-![Comparative study](./Images/comparative_study.jpg)
+![Comparative study](./Images/comparative_study.png)
 
 
 
