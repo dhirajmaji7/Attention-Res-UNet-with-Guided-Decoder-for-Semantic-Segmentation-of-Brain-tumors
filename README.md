@@ -1,6 +1,7 @@
 ## Attention Res-UNet with Guided Decoder for semantic segmentation of brain tumors
 
 ### Graphical Abstract
+![Graphical Abstract]('./Images/graphical_abstract.jpg')
 
 
 
